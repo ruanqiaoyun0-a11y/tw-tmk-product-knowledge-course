@@ -1,0 +1,15 @@
+:root{--primary:#286443;--primary-light:#78b82a;--bg:#f6f8f2;--text:#243a2e;--muted:#617266;--border:#dce5d9;--sidebar:#183f2c;--success:#286443;--radius:8px}
+.brand{color:#f1d16c}.brand span{color:#bed1b7}.sidebar{background:var(--sidebar)}.side-sub,.side-progress>div{color:#c7d6c4}
+.sidebar nav .nav-item{color:#dbe8d6}.nav-item .num{border-color:#6d8c73}.nav-item.active,.nav-item:hover{background:#2f6546;border-color:#8bb35e}
+.nav-item.done .num{background:#79ad43;border-color:#79ad43;color:#183f2c}.side-bottom{border-color:#477057}.side-bottom button{border-color:#79967d;color:#f0f6e8}.side-bottom small{color:#c7d6c4}
+progress{accent-color:#f0cf65}progress::-webkit-progress-bar{background:#496b53}progress::-webkit-progress-value{background:#f0cf65}
+button{border-radius:7px}button:hover{background:#eef4e8}button.primary{background:#286443;border-color:#286443}button.primary:hover{background:#1b4931}
+.eyebrow{color:#286443}.tag{background:#e6f0dc;color:#295e40;border-radius:7px}.card,.score-box,.completion{border-radius:8px;box-shadow:none}
+.video-shell{background:#183f2c;border-radius:8px}.video-shell video{background:#183f2c}.chapters button.playing{background:#e6f0dc;border-color:#8db982}
+.callout{background:#ecf4e7;border-color:#85b84d}.quote{background:#f7f4e9;border-color:#e2bd54;color:#375c3e}.compare article,.result-text{background:#f1f5ec;border-radius:8px}
+th{background:#eaf1e4}.formula{background:#eef4e8;border-radius:8px}.option{border-radius:7px}.option:hover{background:#f7faef}.option:has(input:checked){border-color:#74a456;background:#edf5e5}.option input{accent-color:#286443}
+.feedback{background:#edf5e8}.toast{background:#183f2c;border-radius:8px}.hero-stat b,.q-title{color:#286443}.file-input{border-color:#8eae87}.mobilebar{background:#fffdf9}.scrim.show{background:#122a1c80}
+
+.watch-task{border-left:4px solid #dbb94c;padding:12px 20px;background:#faf5e4;margin:22px 0;color:#3e573c}.watch-task p{margin:5px 0;font-size:15px}.group-handoff{border:2px solid #77a54e}.group-handoff textarea{min-height:360px;font-size:15px;line-height:1.7}.player-footer{align-items:center}#watch-status{font-size:13px;max-width:75%;color:#536c59}@media(max-width:800px){#watch-status{max-width:100%}.watch-task{padding:12px 15px}}
+
+.foundation-links{font-size:15px;margin:16px 0}.foundation-links a{margin-right:12px}.foundation-focus{background:#fffdf4;padding:14px 18px;border:1px solid #e7dfbc;border-radius:7px}.foundation-focus p{font-size:15px}
